@@ -1,5 +1,5 @@
 # course-outline-scraper
-Scrapes important course information from UW course outlines and exports it to Excel
+This Python script uses BeautifulSoup to extract key course information from UW course outlines and exports the data to an Excel workbook. Each course gets its own sheet in the workbook, including detailed course information, assessments, and learning outcomes.
 
 Information scraped:
 - Course code/course name
